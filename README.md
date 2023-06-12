@@ -1,4 +1,10 @@
 ### Hi there, I'm Majer👋
+ <a href="https://twitter.com/https://JustMajer_">
+    <img src="https://img.shields.io/badge/Twitter-green?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  </a>
+   <a href="https://telegram.com/Just_Majer">
+    <img src="https://img.shields.io/badge/Telegram-red?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
+  </a>
 
 <!--
 **JustMajer/JustMajer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
