@@ -1,35 +1,31 @@
+ ####
 <h1 align='center'> Hi there 👋, I am <strong> Majer the data scientist </strong> </h1>
 <img align="center" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="800"/>
 
 
 <div id="badges">
-  <a href="https://www.linkedin.com/in/belema-acheye-4b88b3101">
+  <a href="https://www.linkedin.com/in/just-majer-02a0b2272">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://twitter.com/https://Acheye Belema">
+  <a href="https://twitter.com/https://JustMajer_">
     <img src="https://img.shields.io/badge/Twitter-green?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
-   <a href="https://telegram.com/Belema.Acheye">
+   <a href="https://telegram.com/Just_Majer">
     <img src="https://img.shields.io/badge/Telegram-red?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
   </a>
-   <a href="https://whatsapp.com/Belema Acheye">
-    <img src="https://img.shields.io/badge/Whatsapp-orange?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Whatsapp Badge"/>
-  </a>
+  
 </div>
 
-  ####
-  <h1 align='center'> Hi there 👋, I am <strong> Belema Acheye </strong> </h1>
-<img align="center" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="800"/>
 <p>
-  I am a Full Stack Software Engineer/Developer in making, Marine Engineer, PGD Shipping Transport Management from Nigeria 🇳🇬.
+  I am a dedicated and results-oriented data scientist with a strong passion for extracting meaningful insights from data. With a deep understanding of statistical analysis and machine learning techniques, I thrive on using data-driven approaches to tackle real-world challenges.
 </p>
 <p>
   I'm passionate about how technology boosts productivity and economic growth. 
   I think is important to ask why and what we want to achieve before starting a project.
-  I love how ideas come true by typing lines of code. I take a special liking to Web Development and the cool things we can do with HTML, CSS, JavaScript and recent developments.    
+      
 </p>
 <p>
-  I'm a bound slave to Jesus Chist. Is important to understand the gift of life in God through Jesus Christ the saviour.
+  
 </p>
 
 <h4>Connect With Me</h4>
